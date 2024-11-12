@@ -1,0 +1,7 @@
+server:
+  port: 8081
+logging:
+  level:
+    org.springframework.integration: DEBUG
+    org.springframework.messaging: DEBUG
+    org.springframework.integration.ip: DEBUG
